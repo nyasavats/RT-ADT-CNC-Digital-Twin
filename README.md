@@ -3,7 +3,7 @@
 Low-cost digital twin system for real-time CNC spindle health monitoring and predictive maintenance — built with a single ACS712 current sensor, Arduino Uno, ESP32, and Node-RED.
 
 ## What This Does
-Reads CNC spindle motor current using a low-cost ACS712 sensor. Uses physics-based models to compute RMS current, load index, and torque in real time. Flags anomalies like tool wear, overload, and chip jamming — no expensive industrial sensors, no black-box ML.
+'Reads CNC spindle motor current using a low-cost ACS712 sensor. Uses physics-based models to compute RMS current, load index, and torque in real time. Flags anomalies like tool wear, overload, and chip jamming without expensive industrial sensors, no black-box ML.'
 ---
 
 ## Results
